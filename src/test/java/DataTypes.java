@@ -1,6 +1,9 @@
+import org.testng.annotations.Test;
+
 public class DataTypes {
 
-    public static void main(String[] args) {
+    @Test
+    public void DataTypesDemo() {
         // 1. int
         int i = 8;
 
