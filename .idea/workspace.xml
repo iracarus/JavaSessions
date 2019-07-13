@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424df0e3-cd2d-4d19-8889-c160314493f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ClassesAndObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DataTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="-461">
               <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
@@ -41,11 +43,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ArraysConcepts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="587">
+            <state relative-caret-position="632">
               <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ClassesAndObjects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <folding>
+                <element signature="e#130#147#0" />
+                <marker date="1563011050872" expanded="true" signature="1041:1213" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="57" column="15" lean-forward="true" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +115,8 @@
         <option value="$PROJECT_DIR$/src/test/java/StringConcepts.java" />
         <option value="$PROJECT_DIR$/src/test/java/LoopsConcepts.java" />
         <option value="$PROJECT_DIR$/src/test/java/ArraysConcepts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Car.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ClassesAndObjects.java" />
       </list>
     </option>
   </component>
@@ -109,11 +143,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="91" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -121,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -156,6 +188,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.StringConcepts.stringConcepts">
+  <component name="RunManager" selected="TestNG.ClassesAndObjects.classesAndObjects">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="DataTypes" />
       <module name="JavaSessions" />
@@ -194,6 +227,18 @@
     <configuration name="StringConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringConcepts" />
       <module name="JavaSessions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassesAndObjects.classesAndObjects" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSessions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClassesAndObjects" />
+      <option name="METHOD_NAME" value="classesAndObjects" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,6 +269,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ClassesAndObjects.classesAndObjects" />
         <item itemvalue="TestNG.StringConcepts.stringConcepts" />
         <item itemvalue="TestNG.DataTypes.DataTypesDemo" />
         <item itemvalue="Application.StringConcepts" />
@@ -242,18 +288,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataTypes_DataTypesDemo - 2019.07.09 at 12h 41m 36s.xml">
-      <configuration name="DataTypes.DataTypesDemo" configurationId="TestNG" />
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 14h 38m 46s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="StringConcepts_stringConcepts - 2019.07.09 at 12h 41m 43s.xml">
-      <configuration name="StringConcepts.stringConcepts" configurationId="TestNG" />
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 14h 39m 40s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 14h 46m 09s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 14h 49m 21s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 15h 05m 47s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 15h 06m 13s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 15h 06m 39s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 15h 10m 16s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 15h 11m 21s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 15h 14m 15s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19412607" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1969914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -261,7 +330,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.7536657" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -269,12 +338,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32844576" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.32879657" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32879657" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Key Promoter X" order="6" />
     </layout>
@@ -285,13 +354,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/DataTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StringConcepts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -315,8 +377,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ArraysConcepts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
+        <state relative-caret-position="632">
           <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DataTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-461">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="57" column="15" lean-forward="true" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClassesAndObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="e#130#147#0" />
+            <marker date="1563011050872" expanded="true" signature="1041:1213" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
