@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424df0e3-cd2d-4d19-8889-c160314493f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ClassesAndObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ChildsChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InheritanceConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DataTypes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-461">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StringConcepts.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,20 +39,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ArraysConcepts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
+            <state relative-caret-position="1512">
               <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ClassesAndObjects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+            <state relative-caret-position="48">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding>
                 <element signature="e#130#147#0" />
                 <marker date="1563011050872" expanded="true" signature="1041:1213" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Parent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#49#50#0" expanded="true" />
+                <element signature="e#85#86#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Child.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <folding>
+                <element signature="e#49#50#0" expanded="true" />
+                <element signature="e#85#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ChildsChild.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/InheritanceConcept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <marker date="1563103220397" expanded="true" signature="497:1000" ph="..." />
               </folding>
             </state>
           </provider>
@@ -70,14 +114,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="57" column="15" lean-forward="true" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
-              <folding>
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -117,6 +153,10 @@
         <option value="$PROJECT_DIR$/src/test/java/ArraysConcepts.java" />
         <option value="$PROJECT_DIR$/src/test/java/Car.java" />
         <option value="$PROJECT_DIR$/src/test/java/ClassesAndObjects.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ChildsChild.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Child.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Parent.java" />
+        <option value="$PROJECT_DIR$/src/test/java/InheritanceConcept.java" />
       </list>
     </option>
   </component>
@@ -143,7 +183,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -154,7 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,7 +228,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,19 +253,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ClassesAndObjects.classesAndObjects">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypes" />
-      <module name="JavaSessions" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringConcepts" />
+  <component name="RunManager" selected="Application.InheritanceConcept">
+    <configuration name="InheritanceConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritanceConcept" />
       <module name="JavaSessions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -255,6 +285,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InheritanceConcept.inheritance" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSessions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InheritanceConcept" />
+      <option name="METHOD_NAME" value="inheritance" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringConcepts.stringConcepts" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaSessions" />
       <option name="PACKAGE_NAME" value="" />
@@ -269,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceConcept" />
+        <item itemvalue="TestNG.InheritanceConcept.inheritance" />
         <item itemvalue="TestNG.ClassesAndObjects.classesAndObjects" />
         <item itemvalue="TestNG.StringConcepts.stringConcepts" />
         <item itemvalue="TestNG.DataTypes.DataTypesDemo" />
-        <item itemvalue="Application.StringConcepts" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -288,21 +330,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 14h 38m 46s.xml">
-      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 14h 39m 40s.xml">
-      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 14h 46m 09s.xml">
-      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 14h 49m 21s.xml">
-      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 15h 05m 47s.xml">
-      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 15h 06m 13s.xml">
       <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
     </history-entry>
@@ -318,11 +345,27 @@
     <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.13 at 15h 14m 15s.xml">
       <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ClassesAndObjects_classesAndObjects - 2019.07.14 at 15h 57m 17s.xml">
+      <configuration name="ClassesAndObjects.classesAndObjects" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="InheritanceConcept_inheritance - 2019.07.14 at 15h 57m 27s.xml">
+      <configuration name="InheritanceConcept.inheritance" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="InheritanceConcept_inheritance - 2019.07.14 at 15h 58m 59s.xml">
+      <configuration name="InheritanceConcept.inheritance" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="InheritanceConcept_inheritance - 2019.07.14 at 16h 04m 17s.xml">
+      <configuration name="InheritanceConcept.inheritance" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="InheritanceConcept_inheritance - 2019.07.14 at 16h 33m 47s.xml">
+      <configuration name="InheritanceConcept.inheritance" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1969914" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19985673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -330,12 +373,12 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.7536657" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36070383" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.43108505" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32844576" />
@@ -354,10 +397,10 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/StringConcepts.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DataTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="37" selection-end-line="84" />
+        <state relative-caret-position="96">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -368,6 +411,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArraysConcepts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -375,17 +425,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ArraysConcepts.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClassesAndObjects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        <state relative-caret-position="48">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <element signature="e#130#147#0" />
+            <marker date="1563011050872" expanded="true" signature="1041:1213" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DataTypes.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/StringConcepts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-461">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state relative-caret-position="504">
+          <caret line="21" column="37" selection-end-line="84" />
         </state>
       </provider>
     </entry>
@@ -393,25 +447,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="57" column="15" lean-forward="true" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
           <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#49#50#0" expanded="true" />
+            <element signature="e#85#86#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ClassesAndObjects.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        <state relative-caret-position="264">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
-            <element signature="e#130#147#0" />
-            <marker date="1563011050872" expanded="true" signature="1041:1213" ph="..." />
+            <element signature="e#49#50#0" expanded="true" />
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/InheritanceConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1563103220397" expanded="true" signature="497:1000" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ChildsChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
