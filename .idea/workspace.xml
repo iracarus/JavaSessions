@@ -2,34 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424df0e3-cd2d-4d19-8889-c160314493f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaBasics/OperatorsConcepts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OOPsConcepts/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OOPsConcepts/Interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSessions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSessions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ArraysConcepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaBasics/ArraysConcepts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OOPsConcepts/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OOPsConcepts/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ChildsChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OOPsConcepts/ChildsChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ClassesAndObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OOPsConcepts/ClassesAndObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaBasics/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/InheritanceConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/InheritanceConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OOPsConcepts/InheritanceConcept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LoopsConcepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaBasics/LoopsConcepts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OOPsConcepts/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StringConcepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaBasics/StringConcepts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ArraysConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ArraysConcepts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ChildsChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ChildsChild.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ClassesAndObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ClassesAndObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/DataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DataTypes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/InheritanceConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/InheritanceConcept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoopsConcepts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StringConcepts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StringConcepts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ArraysConcepts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ChildsChild.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ClassesAndObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/InheritanceConcept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsConcepts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StringConcepts.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/OOPsConcepts/ClassesAndObjects.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -53,12 +38,46 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/OOPsConcepts/AbstractClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/OOPsConcepts/Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+              <folding>
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -84,6 +103,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/DataTypes.java" />
         <option value="$PROJECT_DIR$/src/test/java/OperatorsConcepts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OOPsConcepts/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OOPsConcepts/Interface.java" />
       </list>
     </option>
   </component>
@@ -156,6 +177,24 @@
             </path>
             <path>
               <item name="JavaSessions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSessions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="OOPsConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractClass.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaSessions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSessions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="OOPsConcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaSessions" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -193,10 +232,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.OperatorsConcepts.arithmeticOperators">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="InheritanceConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPsConcepts.InheritanceConcept" />
       <module name="JavaSessions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPsConcepts.Test" />
+      <module name="JavaSessions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPsConcepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -206,18 +258,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="JavaBasics.DataTypes" />
       <option name="METHOD_NAME" value="DataTypesDemo" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InheritanceConcept.inheritance" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaSessions" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OOPsConcepts.InheritanceConcept" />
-      <option name="METHOD_NAME" value="inheritance" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -251,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="TestNG.OperatorsConcepts.arithmeticOperators" />
         <item itemvalue="TestNG.OperatorsConcepts.operatorConcepts" />
         <item itemvalue="TestNG.DataTypes.DataTypesDemo" />
         <item itemvalue="Application.InheritanceConcept" />
-        <item itemvalue="TestNG.InheritanceConcept.inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -302,10 +342,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20558739" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20845272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -313,7 +353,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32991204" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24926686" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12463343" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,7 +361,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.43108505" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32844576" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32844576" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -431,6 +471,42 @@
           <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <marker date="1563373407940" expanded="true" signature="1064:1236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPsConcepts/InterfaceClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPsConcepts/AbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPsConcepts/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
           </folding>
         </state>
       </provider>
