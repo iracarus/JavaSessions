@@ -1,3 +1,5 @@
+package JavaBasics;
+
 import org.testng.annotations.Test;
 
 public class DataTypes {
@@ -43,5 +45,16 @@ public class DataTypes {
 
         char c4 = (char)9765755767L;
         System.out.println(c4);
+
+        char ch = 'a';
+        ch++;
+        System.out.println(ch);
+
+        byte ay = 10;
+        byte by = 20;
+        byte cy = (byte)(ay+by);
+
+        System.out.println(10/0);
+
     }
 }

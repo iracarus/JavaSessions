@@ -1,3 +1,5 @@
+package JavaBasics;
+
 import org.testng.annotations.Test;
 
 public class StringConcepts {

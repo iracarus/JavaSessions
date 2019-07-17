@@ -1,3 +1,6 @@
+package OOPsConcepts;
+
+import OOPsConcepts.Child;
 
 public class InheritanceConcept {
     public static void main(String[] args) {
