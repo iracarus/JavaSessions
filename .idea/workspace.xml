@@ -2,45 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424df0e3-cd2d-4d19-8889-c160314493f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CollectionConcepts/MapsConcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumBasics/FirstProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumBasics/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntermediate/AlertHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntermediate/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntermediate/WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumIntermediate/WindowHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSessions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSessions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CollectionConcepts/SetConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CollectionConcepts/SetConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumBasics/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumBasics/FirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumBasics/FirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumBasics/FirstProgram.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,11 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumIntermediate/AlertHandling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumBasics/FirstProgram.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumIntermediate/WindowHandling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="309">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,94 +46,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2429">
-              <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#8256#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="243">
+              <caret line="141" column="6" selection-start-line="141" selection-start-column="6" selection-end-line="141" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/Alert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="587">
-              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            <state relative-caret-position="96">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/String.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1824">
-              <caret line="111" column="47" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Set.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4824">
-              <caret line="224" column="11" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2784">
-              <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
-              <folding>
-                <element signature="e#8248#8249#0" expanded="true" />
-                <element signature="e#8275#8276#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10128">
-              <caret line="460" column="19" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
-              <folding>
-                <element signature="e#31007#31008#0" expanded="true" />
-                <element signature="e#31039#31040#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2088">
-              <caret line="110" column="39" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2832">
-              <caret line="143" column="52" selection-start-line="143" selection-end-line="143" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="44" column="25" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="25" />
+            <state relative-caret-position="219">
+              <caret line="379" column="10" selection-start-line="379" selection-start-column="10" selection-end-line="379" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -198,7 +113,13 @@
         <option value="$PROJECT_DIR$/src/test/java/CollectionConcepts/SetConcept.java" />
         <option value="$PROJECT_DIR$/src/test/java/CollectionConcepts/MapsConcept.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumBasics/Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/SeleniumBasics/FirstProgram.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumBasics/Duplicate.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumIntermediate/WebTables.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumIntermediate/DragAndDrop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumIntermediate/AlertHandling.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumIntermediate/WindowHandling.java" />
       </list>
     </option>
   </component>
@@ -225,10 +146,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -236,6 +157,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -268,7 +190,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SeleniumBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumIntermediate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaSessions" type="b2602c69:ProjectViewProjectNode" />
@@ -283,7 +205,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,8 +232,44 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FirstProgram.launchChrome">
-    <configuration name="FirstProgram.launchChrome" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.WindowHandling.windowHandling">
+    <configuration name="AlertHandling.alertHandling" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSessions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumIntermediate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumIntermediate" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumIntermediate.AlertHandling" />
+      <option name="METHOD_NAME" value="alertHandling" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DragAndDrop.dragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaSessions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumIntermediate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumIntermediate" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumIntermediate.DragAndDrop" />
+      <option name="METHOD_NAME" value="dragAndDrop" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Duplicate.duplicate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaSessions" />
       <extension name="coverage">
         <pattern>
@@ -321,8 +278,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumBasics" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumBasics.FirstProgram" />
-      <option name="METHOD_NAME" value="launchChrome" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumBasics.Duplicate" />
+      <option name="METHOD_NAME" value="duplicate" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -330,17 +287,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapsConcept.hashMapConcept" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WebTables.webtablesSimple" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaSessions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionConcepts.*" />
+          <option name="PATTERN" value="SeleniumIntermediate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CollectionConcepts" />
-      <option name="MAIN_CLASS_NAME" value="CollectionConcepts.MapsConcept" />
-      <option name="METHOD_NAME" value="hashMapConcept" />
+      <option name="PACKAGE_NAME" value="SeleniumIntermediate" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumIntermediate.WebTables" />
+      <option name="METHOD_NAME" value="webtablesSimple" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -348,53 +305,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapsConcept.linkedHashMap" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WindowHandling.windowHandling" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaSessions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionConcepts.*" />
+          <option name="PATTERN" value="SeleniumIntermediate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CollectionConcepts" />
-      <option name="MAIN_CLASS_NAME" value="CollectionConcepts.MapsConcept" />
-      <option name="METHOD_NAME" value="linkedHashMap" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetConcept.linkedHashSet" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaSessions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionConcepts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="CollectionConcepts" />
-      <option name="MAIN_CLASS_NAME" value="CollectionConcepts.SetConcept" />
-      <option name="METHOD_NAME" value="linkedHashSet" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetConcept.treeSet" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaSessions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionConcepts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="CollectionConcepts" />
-      <option name="MAIN_CLASS_NAME" value="CollectionConcepts.SetConcept" />
-      <option name="METHOD_NAME" value="treeSet" />
+      <option name="PACKAGE_NAME" value="SeleniumIntermediate" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumIntermediate.WindowHandling" />
+      <option name="METHOD_NAME" value="windowHandling" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -404,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FirstProgram.launchChrome" />
-        <item itemvalue="TestNG.MapsConcept.linkedHashMap" />
-        <item itemvalue="TestNG.MapsConcept.hashMapConcept" />
-        <item itemvalue="TestNG.SetConcept.treeSet" />
-        <item itemvalue="TestNG.SetConcept.linkedHashSet" />
+        <item itemvalue="TestNG.WindowHandling.windowHandling" />
+        <item itemvalue="TestNG.AlertHandling.alertHandling" />
+        <item itemvalue="TestNG.DragAndDrop.dragAndDrop" />
+        <item itemvalue="TestNG.WebTables.webtablesSimple" />
+        <item itemvalue="TestNG.Duplicate.duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -423,42 +344,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MapsConcept_hashMapConcept - 2019.07.23 at 22h 34m 08s.xml">
-      <configuration name="MapsConcept.hashMapConcept" configurationId="TestNG" />
+    <history-entry file="AlertHandling_alertHandling - 2019.08.06 at 22h 40m 47s.xml">
+      <configuration name="AlertHandling.alertHandling" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MapsConcept_linkedHashMap - 2019.07.23 at 22h 36m 49s.xml">
-      <configuration name="MapsConcept.linkedHashMap" configurationId="TestNG" />
+    <history-entry file="AlertHandling_alertHandling - 2019.08.06 at 22h 44m 08s.xml">
+      <configuration name="AlertHandling.alertHandling" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstProgram_launchChrome - 2019.07.25 at 22h 29m 32s.xml">
-      <configuration name="FirstProgram.launchChrome" configurationId="TestNG" />
+    <history-entry file="AlertHandling_alertHandling - 2019.08.06 at 22h 50m 02s.xml">
+      <configuration name="AlertHandling.alertHandling" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstProgram_launchChrome - 2019.07.25 at 22h 30m 18s.xml">
-      <configuration name="FirstProgram.launchChrome" configurationId="TestNG" />
+    <history-entry file="AlertHandling_alertHandling - 2019.08.06 at 22h 51m 54s.xml">
+      <configuration name="AlertHandling.alertHandling" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstProgram_launchChrome - 2019.07.25 at 22h 32m 01s.xml">
-      <configuration name="FirstProgram.launchChrome" configurationId="TestNG" />
+    <history-entry file="WindowHandling_windowHandling - 2019.08.06 at 22h 55m 42s.xml">
+      <configuration name="WindowHandling.windowHandling" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstProgram_launchChrome - 2019.07.25 at 22h 39m 40s.xml">
-      <configuration name="FirstProgram.launchChrome" configurationId="TestNG" />
+    <history-entry file="WindowHandling_windowHandling - 2019.08.06 at 22h 56m 08s.xml">
+      <configuration name="WindowHandling.windowHandling" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstProgram_launchChrome - 2019.07.25 at 22h 43m 22s.xml">
-      <configuration name="FirstProgram.launchChrome" configurationId="TestNG" />
+    <history-entry file="WindowHandling_windowHandling - 2019.08.06 at 22h 59m 58s.xml">
+      <configuration name="WindowHandling.windowHandling" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstProgram_launchChrome - 2019.07.25 at 22h 45m 52s.xml">
-      <configuration name="FirstProgram.launchChrome" configurationId="TestNG" />
+    <history-entry file="WindowHandling_windowHandling - 2019.08.06 at 23h 04m 05s.xml">
+      <configuration name="WindowHandling.windowHandling" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstProgram_launchChrome - 2019.07.25 at 22h 47m 35s.xml">
-      <configuration name="FirstProgram.launchChrome" configurationId="TestNG" />
+    <history-entry file="WindowHandling_windowHandling - 2019.08.06 at 23h 05m 27s.xml">
+      <configuration name="WindowHandling.windowHandling" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstProgram_launchChrome - 2019.07.25 at 22h 48m 37s.xml">
-      <configuration name="FirstProgram.launchChrome" configurationId="TestNG" />
+    <history-entry file="WindowHandling_windowHandling - 2019.08.06 at 23h 12m 29s.xml">
+      <configuration name="WindowHandling.windowHandling" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15879828" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -466,7 +387,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32991204" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.23753665" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -481,13 +402,20 @@
       <window_info anchor="right" id="Maven" order="4" weight="0.32879657" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Key Promoter X" order="6" />
-      <window_info anchor="right" id="Run" order="7" weight="0.22246066" />
+      <window_info anchor="right" id="Run" order="7" weight="0.26251787" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="C:" />
     </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="objects" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/JavaBasics/ArraysConcepts.java">
@@ -667,6 +595,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1776">
+          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#8256#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1824">
@@ -681,6 +627,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumBasics/Test.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2784">
@@ -688,17 +649,6 @@
           <folding>
             <element signature="e#8248#8249#0" expanded="true" />
             <element signature="e#8275#8276#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10128">
-          <caret line="460" column="19" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
-          <folding>
-            <element signature="e#31007#31008#0" expanded="true" />
-            <element signature="e#31039#31040#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -724,28 +674,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2429">
-          <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+        <state relative-caret-position="587">
+          <caret line="460" column="19" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
           <folding>
-            <element signature="e#0#8256#0" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="e#31007#31008#0" expanded="true" />
+            <element signature="e#31039#31040#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        <state relative-caret-position="360">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumBasics/FirstProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="1296">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumBasics/Duplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumIntermediate/WebTables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="23" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/interactions/Actions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="20" />
+          <folding>
+            <element signature="e#20238#20239#0" expanded="true" />
+            <element signature="e#20265#20266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/interactions/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumIntermediate/DragAndDrop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/WebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="379" column="10" selection-start-line="379" selection-start-column="10" selection-end-line="379" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59-sources.jar!/org/openqa/selenium/Alert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="141" column="6" selection-start-line="141" selection-start-column="6" selection-end-line="141" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumIntermediate/AlertHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumIntermediate/WindowHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
